@@ -1,4 +1,6 @@
 ### Hi there 👋
+Currently I am working on private data so there is not much that I can show, aisd was quite fun though <br>
+
 
 <!--
 **brybinski/brybinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
