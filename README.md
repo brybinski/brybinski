@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently I am working on private data so there is not much that I can show, aisd was quite fun though <br>
+Currently I am working on private data so there is not much that I can show <br>
 
 
 <!--
